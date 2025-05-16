@@ -4,7 +4,7 @@ I use the Deepseek Coder 6.7B intruct to generate code. The output of the model 
 
 I finetuned the debugging model (Deepseek Coder 6.7B intruct) using quantized LoRA. The finetuning process was done on Google Colab due to resource constraints.
 
-Most of the files in this project were generated from jupyter notebooks as I needed to use google collab both for training and inference.
+Most of the files in this project were generated from jupyter notebooks as I needed to use google colab for both training and inference.
 
 I could not push the finetuned model to github due to resource constraints. However, you can access the finetuned model through this link: 
 https://drive.google.com/drive/folders/1Uh1uj1Ih4L3GWQ2Bk1pVDm0e_wDxjNU1?usp=sharing
