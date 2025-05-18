@@ -31,9 +31,9 @@ The following is a tutorial to help guide you through this repo:
       - debugbench_results_20250518_152054.json: shows all final results and intermediate results of the testing
         
 - agents
-  - generator: based on the base deepseek model - this is the generator for the user-pipeline
-  - executor: executes code with test cases for Python, Java, and C++ and supports the user-pipeline and the testing process
-  - debugger: based on the finetuned model - this is the debugger used for the user-pipeline
+  - generator.py: based on the base deepseek model - this is the generator for the user-pipeline
+  - executor.py: executes code with test cases for Python, Java, and C++ and supports the user-pipeline and the testing process
+  - debugger.py: based on the finetuned model - this is the debugger used for the user-pipeline
   
 - coordinator
   - pipeline_coordinator.py: this is the coordinator for the user-pipeline which uses GPT 4o mini and LangChain for orchestration between agents   
