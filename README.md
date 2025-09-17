@@ -1,6 +1,6 @@
 This is a generative AI project that uses LLMs to generate and debug code. 
 
-📄 [Read the Paper](https://docs.google.com/document/d/14HXBER8udcxN0GUpKSyswPaVQo9apKJ8VK0IFM0xhro/edit?usp=sharing)
+📄 [Read the Paper](https://drive.google.com/file/d/1I060W0AeDT4FywnwCQP862NKUYp6u-GC/view?usp=sharing)
 
 There are two main components to this project:
 
