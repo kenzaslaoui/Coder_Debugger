@@ -15,8 +15,7 @@ We test our results and compare our finetuned model with the base model on the p
 
 Note: Most of the files in this project were generated from jupyter notebooks as I needed to use google colab for both training and inference.
 
-I could not push the finetuned model to github due to resource constraints. However, you can access it through this link: 
-https://drive.google.com/drive/folders/1Uh1uj1Ih4L3GWQ2Bk1pVDm0e_wDxjNU1?usp=sharing
+I could not push the finetuned model to github due to resource constraints. However, you can access it through [this link](https://drive.google.com/drive/folders/1Uh1uj1Ih4L3GWQ2Bk1pVDm0e_wDxjNU1?usp=sharing)
 
 The following is a tutorial to help guide you through this repo:
 
