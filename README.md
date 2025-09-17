@@ -1,5 +1,7 @@
 This is a generative AI project that uses LLMs to generate and debug code. 
 
+📄 [Read the Paper](https://docs.google.com/document/d/14HXBER8udcxN0GUpKSyswPaVQo9apKJ8VK0IFM0xhro/edit?usp=sharing)
+
 There are two main components to this project:
 
 1. We finetune a code generation LLM "Deepseek Coder 6.7B intruct" on code debugging data to teach the model to identify and fix bugs. We use quantized LoRA and implement the finetuning process on Google Colab due to resource constraints. The model is finetuned on Python, Java and C++ code.
