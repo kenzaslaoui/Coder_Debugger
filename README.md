@@ -1,4 +1,4 @@
-This is a generative AI project that uses LLMs to generate and debug code. 
+Fine-tuning DeepSeek Coder 6.7B with LoRA for improved code debugging and deploys it within a LangChain-coordinated pipeline that autonomously generates, tests, and repairs Python, Java, and C++ programs.
 
 📄 [Read the Paper](https://drive.google.com/file/d/1llCFbF3PBHbtIBgzhmJCaf9tY6w7a-4h/view?usp=sharing)
 
